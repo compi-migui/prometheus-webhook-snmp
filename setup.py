@@ -44,7 +44,7 @@ setuptools.setup(
     install_requires=requirements,
     license="GPLv3",
     data_files=[
-        ('./', ['CHANGELOG.md', 'README.md']),
+        ('./share/doc/prometheus-webhook-snmp', ['CHANGELOG.md', 'README.md']),
     ],
     zip_safe=True,
     keywords='prometheus_webhook_snmp',
