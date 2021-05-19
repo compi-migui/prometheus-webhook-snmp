@@ -8,10 +8,9 @@ pip==21.1.1
     # for Cachito debugging
 cython==0.29.23
     # via -r requirements-build.in
-setuptools-scm==5.0.2
+setuptools-scm-git-archive==1.1
     # via -r requirements-build.in
 setuptools-scm[toml]==5.0.2
-setuptools-scm-git-archive==1.1
     # via -r requirements-build.in
 toml==0.10.2
     # via
