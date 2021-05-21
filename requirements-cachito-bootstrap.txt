@@ -1,3 +1,4 @@
 #   Allow bootstrapping to pip>19 and setuptools>=54.0.0 using system-provided pip 19
 #   Workaround for https://setuptools.readthedocs.io/en/latest/history.html#id30
 setuptools==53.1.0
+pip==20.0
